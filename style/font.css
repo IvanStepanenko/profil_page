@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "Raleway-Light";
+    src: url("../fonts/Raleway-Light.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Raleway-Regular";
+    src: url("../fonts/Raleway-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Raleway-Medium";
+    src: url("../fonts/Raleway-Medium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Raleway-SemiBold";
+    src: url("../fonts/Raleway-SemiBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Raleway-Bold";
+    src: url("../fonts/Raleway-Bold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Raleway_ExtraBold";
+    src: url("../fonts/Raleway-ExtraBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight:  normal;
+}
+@font-face {
+    font-family: "Yellowtail-Regular";
+    src: url("../fonts/Yellowtail-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight:  normal;
+}
+@font-face {
+    font-family: "Raleway-Heavy";
+    src: url("../fonts/Raleway-Heavy.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}

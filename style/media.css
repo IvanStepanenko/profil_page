@@ -1,0 +1,102 @@
+@media screen and (max-width: 992px){
+    .menu a{
+        font-size: 15px;
+    }
+    .content{
+        margin: 20px 0;
+    }
+}
+@media screen and (max-width: 768px){
+
+    .header{
+        padding-top: 0px;
+    }
+    .menu ul{
+        display: block!important;
+    }
+    #menuBtn{
+        width: 100%;
+        left: 0;
+        top: 0;
+        border-radius: 0;
+        z-index: 1;
+        padding-top: 13px;
+        padding-left: 13px;
+        position: fixed;
+        justify-content: start!important;
+        align-items: start!important;
+
+
+    }
+    .menu{
+        position: fixed;
+        z-index: 1;
+        top: 50px;
+        left: 0;
+        width: 100%;
+    }
+    .menu li{
+        display: inline-block;
+        height: 32px;
+        margin: 0;
+        width: 100%;
+        background-color: #989999;
+    }
+    .menu a:hover{
+        background-color: #bdbebe;
+    }
+    .me{
+        margin-top: 70px;
+    }
+    .statistic p{
+        display: none;
+    }
+    .statistic div{
+        cursor: pointer;
+
+    }
+    .statistic div:hover p{
+        font-size: 24px;
+        display: block;
+    }
+    .statistic__project p{
+        top:115px;
+        left: -10px;
+    }
+    .statistic__clients p{
+        left: -120px;
+        bottom: 95px;
+    }
+    .statistic__satisfaction p{
+
+        right: -170px;
+        bottom: 95px;
+    }
+    .contact p{
+        padding: 0;
+    }
+    .block-icon{
+        justify-content: center!important;
+    }
+
+
+
+}
+@media screen and (max-width: 576px){
+
+    .about_me__video{
+        max-width: 100%;
+    }
+    .my_foto{
+        width: 80%;
+        height: 80%;
+    }
+    .me__btn{
+        font-size: 17px;
+        padding: 10px;
+    }
+    .content{
+       width: 100%;
+    }
+
+}
